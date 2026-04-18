@@ -42,7 +42,7 @@ It was created as part of a hardware learning initiative and can be extended wit
 
 | Component | Description |
 |----------|------------|
-| ESP32 (XIAO ESP32-S3) | Main microcontroller |
+| ESP32C3 SUPER MINI | Main microcontroller |
 | OLED Display | 128x64 SSD1306 |
 | Push Buttons | User input |
 | Custom PCB | Designed in EasyEDA |
@@ -69,7 +69,7 @@ Includes:
 1. Install Arduino IDE  
 2. Install ESP32 board package  
 3. Open `.ino` file  
-4. Select board: **ESP32 / XIAO ESP32-S3**  
+4. Select board: **ESP32C3 SUPER MINI**  
 5. Click Upload  
 
 ---
@@ -84,20 +84,6 @@ Includes:
 
 ---
 
-## 📱 Future Improvements
-
-- 📡 Bluetooth game transfer  
-- 📱 Mobile app controller  
-- 🔊 Sound (buzzer/speaker)  
-- 💾 SD card game storage  
-
----
-
-## 📸 Demo
-
-> (Add your video or GIF here later)
-
----
 
 ## 🤝 Contributing
 
@@ -105,12 +91,3 @@ Feel free to fork this project and improve it!
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
