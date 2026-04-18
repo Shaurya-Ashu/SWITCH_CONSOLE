@@ -8,8 +8,10 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/images/device1.jpg" width="300"/>
-  <img src="assets/images/device2.jpg" width="300"/>
+
+<img width="2880" height="1226" alt="V1_2026-Mar-29_10-11-02AM-000_CustomizedView26473540708_png_alpha" src="https://github.com/user-attachments/assets/947e58b2-c886-47f9-991f-bb279e32e0e1" />
+<img width="2880" height="1226" alt="V1 v4" src="https://github.com/user-attachments/assets/95b4b6fc-ed89-489e-a552-321e276ce4c9" />
+
 </p>
 
 ---
@@ -43,7 +45,6 @@ It was created as part of a hardware learning initiative and can be extended wit
 | ESP32 (XIAO ESP32-S3) | Main microcontroller |
 | OLED Display | 128x64 SSD1306 |
 | Push Buttons | User input |
-| Battery (optional) | Portable power |
 | Custom PCB | Designed in EasyEDA |
 
 ---
