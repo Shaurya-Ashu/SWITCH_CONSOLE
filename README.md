@@ -40,11 +40,11 @@ It was created as part of a hardware learning initiative and can be extended wit
 
 ## 🧰 Hardware Components
 
-| Component | Description |
-|----------|------------|
-| ESP32C3 SUPER MINI | Main microcontroller |
-| OLED Display | 128x64 SSD1306 |
-| Push Buttons | User input |
+| Component | Description | EasyEDA |
+|----------|------------|-----------------|
+| ESP32C3 SUPER MINI | Main microcontroller |ESP32C3-SuperMini|
+| OLED Display | 128x64 SSD1306 |HS96L03W2C03|
+| Push Buttons | User input |TC-6610 6*6*13 260g|
 | Custom PCB | Designed in EasyEDA |
 
 ---
