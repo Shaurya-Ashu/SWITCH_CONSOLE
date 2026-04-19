@@ -1,3 +1,6 @@
+
+
+<img width="660" height="286" alt="Screenshot 2026-04-19 at 4 55 51 PM" src="https://github.com/user-attachments/assets/7d8af521-ebae-4828-a174-3d39b126543e" />
 # 🎮 SWITCH CONSOLE  
 ### ESP32-Based Handheld Gaming Device
 
